@@ -20,7 +20,7 @@ ALX Software Engineering bootcamp graduate, empowering myself with the latest sk
 
 ## Skills 🧰
 
-### Programming Languages
+### Programming Languages 🐍
 - [Python]()
 - [JavaScript]()
 - [Typescript]()
