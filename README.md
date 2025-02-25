@@ -1,4 +1,4 @@
-# [KIPTOO CALEB]()! 👋
+# [KIPTOO CALEB]() 👋
 
 ## GitHub Stats
 
@@ -54,4 +54,5 @@ ALX Software Engineering bootcamp graduate, empowering myself with the latest sk
 
 ---
 
-⭐️ From [kiptooc0des]()
+⭐️ Yours Truly,
+  *[kiptooc0des]()*
