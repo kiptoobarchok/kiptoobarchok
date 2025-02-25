@@ -1,6 +1,6 @@
 # [KIPTOO CALEB]() 👋
 
-## GitHub Stats
+## Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiptoobarchok&show_icons=true&theme=radical)
 
@@ -18,28 +18,6 @@ ALX Software Engineering bootcamp graduate, empowering myself with the latest sk
 - 🧠    `MongoDB`,   `AI`,   `API Intergration`
 - 🤝    `AI`, `Web Development`, `Backend Development`, `opensource projects`
 
-## Skills 🧰
-
-### Programming Languages 🐍
-- [Python]()
-- [JavaScript]()
-- [Typescript]()
-
-### Frameworks & Libraries ⤴️
-- [Flask]()
-- [Django]()
-
-### Tools & Technologies ⚓
-- [Git/GitHub]()
-- [Docker]()
-- [AWS]()
-- [GNU/Linux]()
-
-### Other Skills
-- [Agile Methodology]()
-- [Data Visualization]()
-- [REST APIs]()
-
 ## Certifications 👨‍🎓
 
 - [Backend Software development](https://intranet.alxswe.com/certificates/RSHCBnTEMh)
@@ -55,4 +33,4 @@ ALX Software Engineering bootcamp graduate, empowering myself with the latest sk
 ---
 
 ⭐️ Yours Truly, <br>
-    *[kiptooc0des]()*
+🐍 *[kiptooc0des]()* 
