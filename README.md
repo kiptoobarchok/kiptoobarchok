@@ -15,7 +15,7 @@ ALX Software Engineering bootcamp graduate, empowering myself with the latest sk
 - 🖥️    [Visit my website](https://kiptooc0des.onrender.com/)
 - ✉️    [calebkiptoo9090@gmail.com]()
 - 🚀    [gladius](https://github.com/kiptoobarchok/gladius)
-- 🧠    `[MongoDB]()`,   `[AI]()`,   `[API Intergration]()`
+- 🧠    `MongoDB`,   `AI`,   `API Intergration`
 - 🤝    `AI`, `Web Development`, `Backend Development`, `opensource projects`
 
 ## Skills 🧰
