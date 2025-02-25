@@ -1,28 +1,35 @@
 # Hi there, I'm [KIPTOO CALEB]()! 👋
 
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiptoobarchok&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiptoobarchok&layout=compact&theme=radical)
+
 ## About Me
-ALX Software Engineering bootcamp graduate, empowering myself with the latest skills and knowledge in the digital landscape. Passionate about working in `opensource` projects
+ALX Software Engineering bootcamp graduate, empowering myself with the latest skills and knowledge in the digital landscape.  `opensource` 🖤
 
 - 🌍    [KERICHO, KENYA]()
 - 🖥️    [Visit my website](https://kiptooc0des.onrender.com/)
 - ✉️    [calebkiptoo9090@gmail.com]()
-- 🚀  Currently working on [gladius](https://github.com/kiptoobarchok/gladius)
-- 🧠  Learning [MongoDB](), [AI](), [API Intergration]()
-- 🤝  Open to collaborating on `AI`, `Web Development`, `Backend Development`, `opensource projects`
+- 🚀    [gladius](https://github.com/kiptoobarchok/gladius)
+- 🧠    [MongoDB](), [AI](), [API Intergration]()
+- 🤝    `AI`, `Web Development`, `Backend Development`, `opensource projects`
 
-## Skills
+## Skills 🧰
 
 ### Programming Languages
 - [Python]()
 - [JavaScript]()
 - [Typescript]()
 
-### Frameworks & Libraries
+### Frameworks & Libraries ⤴️
 - [Flask]()
 - [Django]()
-- 
 
-### Tools & Technologies
+### Tools & Technologies ⚓
 - [Git/GitHub]()
 - [Docker]()
 - [AWS]()
@@ -33,19 +40,12 @@ ALX Software Engineering bootcamp graduate, empowering myself with the latest sk
 - [Data Visualization]()
 - [REST APIs]()
 
-## Certifications
+## Certifications 👨‍🎓
 
 - [Backend Software development]()
 - [AI]()
 - [MongoDb]()
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiptoobarchok&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiptoobarchok&layout=compact&theme=radical)
 
 ## Let's Connect!
 
