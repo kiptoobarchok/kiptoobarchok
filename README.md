@@ -1,4 +1,4 @@
-# Hi there, I'm [KIPTOO CALEB]()! 👋
+# [KIPTOO CALEB]()! 👋
 
 ## GitHub Stats
 
@@ -47,7 +47,7 @@ ALX Software Engineering bootcamp graduate, empowering myself with the latest sk
 - [MongoDb]()
 
 
-## Let's Connect!
+## Let's Connect! 🐬
 
 - [LinkedIn](www.linkedin.com/in/kiptoo-caleb-aa1865204)
 - [Instagram](https://www.instagram.com/_actually_caleb/?hl=en)
