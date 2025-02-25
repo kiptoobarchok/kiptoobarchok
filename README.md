@@ -54,5 +54,5 @@ ALX Software Engineering bootcamp graduate, empowering myself with the latest sk
 
 ---
 
-⭐️ Yours Truly,
-  *[kiptooc0des]()*
+⭐️ Yours Truly, <br>
+    *[kiptooc0des]()*
