@@ -8,8 +8,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiptoobarchok&layout=compact&theme=radical)
 
-## About Me
-ALX Software Engineering bootcamp graduate, empowering myself with the latest skills and knowledge in the digital landscape.  `opensource` 🖤
+## About Me 🎱
+ALX Software Engineering bootcamp graduate <br>
+`opensource` 🖤
 
 - 🌍    [KERICHO, KENYA]()
 - 🖥️    [Visit my website](https://kiptooc0des.onrender.com/)
