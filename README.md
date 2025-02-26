@@ -9,11 +9,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiptoobarchok&layout=compact&theme=radical)
 
 ## About Me 🎱
-ALX Software Engineering bootcamp graduate <br>
+*ALX Software Engineering bootcamp graduate <br>*
 `opensource` 🖤
 
 - 🌍    [KERICHO, KENYA]()
-- 🖥️    [Visit my website](https://kiptooc0des.onrender.com/)
+- 🖥️    [Website](https://kiptooc0des.onrender.com/)
 - ✉️    [calebkiptoo9090@gmail.com]()
 - 🚀    [gladius](https://github.com/kiptoobarchok/gladius)
 - 🧠    `MongoDB`,   `AI`,   `API Intergration`
