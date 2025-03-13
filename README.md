@@ -15,7 +15,7 @@
 - 🌍    [KERICHO, KENYA]()
 - 🖥️    [Website](https://kiptooc0des.onrender.com/)
 - ✉️    [calebkiptoo9090@gmail.com]()
-- 🚀    [gladius](https://github.com/kiptoobarchok/gladius)
+- 🚀    [gladius](https://github.com/kiptoobarchok/gladius) | [MediTree](https://github.com/kiptoobarchok/MediTree)
 - 🧠    `MongoDB`,   `AI`,   `API Intergration`
 - 🤝    `AI`, `Web Development`, `Backend Development`, `opensource projects`
 
