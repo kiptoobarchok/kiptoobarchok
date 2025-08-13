@@ -8,7 +8,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiptoobarchok&layout=compact&theme=radical)
 
-## About Me 🎱
-- *ALX Software Engineering bootcamp graduate <br>*
+
 - `opensource` 🖤
 
